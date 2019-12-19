@@ -1,0 +1,2 @@
+spring.datasource.username=dbuser
+spring.datasource.password={cipher}ff80b1fc22e27737e721f82b29b298452652c9fd019910e2048391879a3a3067
